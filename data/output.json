@@ -1,0 +1,111 @@
+[
+  {
+    "id": 3,
+    "name": "Carlos Dev",
+    "account": {
+      "id": 3,
+      "number": "03.765432-1",
+      "agency": "2050",
+      "balance": 1030.75,
+      "limit": 1200.0
+    },
+    "card": {
+      "id": 3,
+      "number": "xxxx xxxx xxxx 3333",
+      "limit": 1500.0
+    },
+    "features": [
+      {
+        "id": 5,
+        "icon": "https://.../cards.svg",
+        "description": "Cartões"
+      },
+      {
+        "id": 3,
+        "icon": "https://.../transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "description": "Olá Carlos Dev, temos novidades para você!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mariana Dev",
+    "account": {
+      "id": 4,
+      "number": "04.111213-0",
+      "agency": "2060",
+      "balance": 980.0,
+      "limit": 2000.0
+    },
+    "card": {
+      "id": 4,
+      "number": "xxxx xxxx xxxx 4444",
+      "limit": 2500.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://.../pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://.../pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://.../transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 5,
+        "icon": "https://.../cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": [
+      {
+        "id": 3,
+        "icon": "https://.../investment.svg",
+        "description": "Novos investimentos Santander"
+      },
+      {
+        "description": "Olá Mariana Dev, temos novidades para você!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "João Novato",
+    "account": {
+      "id": 5,
+      "number": "05.987654-3",
+      "agency": "2070",
+      "balance": 0.0,
+      "limit": 300.0
+    },
+    "card": {
+      "id": 5,
+      "number": "xxxx xxxx xxxx 5555",
+      "limit": 500.0
+    },
+    "features": [
+      {
+        "id": 4,
+        "icon": "https://.../account.svg",
+        "description": "Conta Corrente"
+      }
+    ],
+    "news": [
+      {
+        "description": "Olá João Novato, temos novidades para você!"
+      }
+    ]
+  }
+]
